@@ -20,3 +20,16 @@ https://www.cnblogs.com/jiabei521/p/3353390.html
 
 https://www.dreamxu.com/books/dsa/greedy/activity-selection.html
 
+二叉树
+
+https://www.jianshu.com/p/bf73c8d50dc2
+
+https://blog.51cto.com/9291927/2083190
+
+https://blog.csdn.net/fxkcsdn/article/details/81674653
+
+http://www.cnblogs.com/sench/p/7786718.html
+
+https://segmentfault.com/a/1190000006123188
+
+https://juejin.im/entry/5afb9fb66fb9a07ab458cc0d
