@@ -14,3 +14,9 @@ https://www.cnblogs.com/coderland/p/6013614.html
 
 https://blog.csdn.net/pange1991/article/details/80967701
 
+字符串编辑距离
+
+https://www.cnblogs.com/jiabei521/p/3353390.html
+
+https://www.dreamxu.com/books/dsa/greedy/activity-selection.html
+
